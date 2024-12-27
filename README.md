@@ -1,7 +1,7 @@
 # DA-Phyton
 # Setup Environment - Shell/Terminal
-mkdir analisis_data
-cd analisis_data
-pipenv install
-pipenv shell
-pip install -r requirements.txt
+- mkdir analisis_data
+- cd analisis_data
+- pipenv install
+- pipenv shell
+- pip install -r requirements.txt
